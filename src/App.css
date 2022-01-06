@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.iframe-game{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+}
